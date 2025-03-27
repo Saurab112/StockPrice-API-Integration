@@ -115,3 +115,4 @@ C:\myLearnings\StockApp\StockApp\obj\Debug\net9.0\StockApp.csproj.AssemblyRefere
 C:\myLearnings\StockApp\StockApp\obj\Debug\net9.0\StockApp.csproj.Up2Date
 C:\myLearnings\StockApp\StockApp\obj\Debug\net9.0\compressed\fbo70le5xd-hutrt2navo.gz
 C:\myLearnings\StockApp\StockApp\obj\Debug\net9.0\compressed\w2u644wxww-okagqheipi.gz
+C:\myLearnings\StockApp\StockApp\obj\Debug\net9.0\StockApp.sourcelink.json

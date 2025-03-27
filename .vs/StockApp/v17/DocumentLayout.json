@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\myLearnings\\StockApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|c:\\mylearnings\\stockapp\\stockapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|solutionrelative:stockapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|c:\\mylearnings\\stockapp\\stockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|solutionrelative:stockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|c:\\mylearnings\\stockapp\\stockapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|solutionrelative:stockapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|c:\\mylearnings\\stockapp\\stockapp\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|solutionrelative:stockapp\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|c:\\mylearnings\\stockapp\\stockapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|solutionrelative:stockapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|c:\\mylearnings\\stockapp\\stockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B6FB59-494D-4D97-8BBF-8AFEE4F269AB}|StockApp\\StockApp.csproj|solutionrelative:stockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B29A8BEB-E778-4EEF-929D-E59AE7D15040}|Services\\Services.csproj|c:\\mylearnings\\stockapp\\services\\finnhubservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,11 +65,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\myLearnings\\StockApp\\StockApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "StockApp\\Views\\_ViewStart.cshtml",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\myLearnings\\StockApp\\StockApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "StockApp\\Views\\Shared\\_Layout.cshtml",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FinnhubScript.js",
               "DocumentMoniker": "C:\\myLearnings\\StockApp\\StockApp\\wwwroot\\Scripts\\FinnhubScript.js",
               "RelativeDocumentMoniker": "StockApp\\wwwroot\\Scripts\\FinnhubScript.js",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\myLearnings\\StockApp\\StockApp\\Views\\Trade\\Index.cshtml",
               "RelativeDocumentMoniker": "StockApp\\Views\\Trade\\Index.cshtml",
@@ -130,15 +130,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TradeController.cs",
               "DocumentMoniker": "C:\\myLearnings\\StockApp\\StockApp\\Controllers\\TradeController.cs",
               "RelativeDocumentMoniker": "StockApp\\Controllers\\TradeController.cs",
               "ToolTip": "C:\\myLearnings\\StockApp\\StockApp\\Controllers\\TradeController.cs",
               "RelativeToolTip": "StockApp\\Controllers\\TradeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:14:39.346Z"
+              "WhenOpened": "2025-03-25T10:14:39.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -226,15 +227,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\myLearnings\\StockApp\\StockApp\\Program.cs",
               "RelativeDocumentMoniker": "StockApp\\Program.cs",
               "ToolTip": "C:\\myLearnings\\StockApp\\StockApp\\Program.cs",
               "RelativeToolTip": "StockApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:41:42.101Z"
+              "WhenOpened": "2025-03-23T10:41:42.101Z",
+              "EditorCaption": ""
             }
           ]
         }
