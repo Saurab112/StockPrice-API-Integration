@@ -1,0 +1,2 @@
+C:\myLearnings\StockApp\StockApp\wwwroot\js\site.js
+C:\myLearnings\StockApp\StockApp\wwwroot\css\site.css

@@ -1,0 +1,11 @@
+C:\myLearnings\StockApp\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+C:\myLearnings\StockApp\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+C:\myLearnings\StockApp\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+C:\myLearnings\StockApp\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\myLearnings\StockApp\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\myLearnings\StockApp\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+C:\myLearnings\StockApp\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\myLearnings\StockApp\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+C:\myLearnings\StockApp\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+C:\myLearnings\StockApp\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+C:\myLearnings\StockApp\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
